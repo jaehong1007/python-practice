@@ -9,4 +9,3 @@ print(result1)
 
 result2 = square_or_multi(5, 7)
 print(result2)
-
