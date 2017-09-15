@@ -1,5 +1,5 @@
 def fruits(color):
-
+    '색을 입력하였을때 색에 맞는 과일의 값을 주는 함수'
     if color == 'red':
         return 'apple'
     elif color == 'yellow':
@@ -20,3 +20,5 @@ print(result3)
 
 result4 = fruits('black')
 print(result4)
+
+print(help(fruits))
